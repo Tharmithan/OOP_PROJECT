@@ -297,7 +297,7 @@
                     </c:if>
                 </form>
                 <div>
-                    <label><input type="checkbox" name="remember"> Remember me.</label>
+                    <label><input type="checkbox" name="remember"> Remember me</label>
                 </div>
                 <div class="form-footer">
                     <p>Don't have an account? <a href="/users/register">Register here</a></p>
