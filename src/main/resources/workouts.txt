@@ -1,0 +1,2 @@
+w1,Sample Cardio,A sample cardio workout,30,t1,Cardio
+w2,Sample Strength,A sample strength workout,45,t1,Strength

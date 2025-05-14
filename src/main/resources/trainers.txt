@@ -1,0 +1,2 @@
+t1,John Doe,Cardio,Monday-Friday 9AM-5PM
+t2,Jane Smith,Strength,Monday-Saturday 10AM-6PM
